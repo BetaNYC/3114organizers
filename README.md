@@ -27,6 +27,7 @@ Existing tools
 * strawman of a liquor license tool
  * site: http://fkh.github.io/liquorinfo/
 * repo: https://github.com/fkh/liquorinfo
-
+* Open311 adapter for NYC 311 on Socrata: https://github.com/tenaciousflea/open311georeport
+* Open311 based apps: http://wiki.open311.org/GeoReport_v2/Resources#Dashboards_.26_Data_Viz
 Next step:
 * talk to potential users of 311 tools.
