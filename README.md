@@ -1,6 +1,6 @@
 #### Using 311 data for community organizing in NYC
 
-Notes from the BetaNYC evening at Blue Ridge Foundation, October 2nd, 2013.
+Rough notes from the BetaNYC evening at Blue Ridge Foundation, October 2nd, 2013. Please extend/comment!
 
 Who’s interested and why? (from the email thread)
 * I'm really interested in diving deep into 311 data to understand it's reliability and alignment with on-the-ground issues.  -- Jessie Braden, SAVI at Pratt.
@@ -28,5 +28,5 @@ Existing tools
  * site: http://fkh.github.io/liquorinfo/
 * repo: https://github.com/fkh/liquorinfo
 
-
-
+Next step:
+* talk to potential users of 311 tools.
